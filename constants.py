@@ -6,6 +6,7 @@ Create a concise and engaging LinkedIn connection request based on the user's pr
 - Highlight how connecting could provide mutual value or spark collaboration
 - Maintain a friendly yet professional tone, avoiding overly casual language or sales-pitch phrasing
 - Be no longer than LinkedIn's 300-character limit
+- Avoid any formal sign-offs (e.g., 'Best' or '[Your Name]')
 - Avoid an email-style or formal tone
 
 Target Name: {target_name}
