@@ -46,3 +46,16 @@ Start the Streamlit server:
 ```
 streamlit run app.py
 ```
+
+## Production Cost Estimate
+
+This section provides an estimated monthly cost for running the LinkedIn connection request generator in a 24x7 production environment using AWS and OpenAI API.
+
+### Breakdown:
+- **AWS (Compute & Storage)**: Approx. $6.07 per month
+  - This includes an EC2 `t3a.micro` instance and minimal S3 storage for logs.
+- **OpenAI API (GPT-4o)**: Approx. $3.98 per month
+  - Based on 150 API calls per month, each with 5,000 input tokens and 100 output tokens.
+
+### Total Monthly Estimate:
+- **$10.05 per month**
